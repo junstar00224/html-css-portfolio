@@ -50,7 +50,6 @@ body {
 .profile-card img {
   width: 100px;
   height: 100px;
-
 }
 
 .fs-2 {
@@ -102,6 +101,6 @@ text-center {
   display: flex;
 }
 
-.card-body
-{border-radius: 50%;
+.card-body {
+  border-radius: 50%;
 }
